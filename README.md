@@ -6,7 +6,7 @@ npm i
 npm run dev
 ```
 ## live preview link
-![home](src/assets/images/didi.png)
+![home](src/assets/images/didi_website.png)
 [See Now](https://diyora.onrender.com/)
 
 ## packages:
